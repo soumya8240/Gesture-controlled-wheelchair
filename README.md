@@ -50,24 +50,27 @@ The system has two independent units:
 
 ---
 
-## 🎥 Prototype Demo
-
-![Gesture Controlled Wheelchair Demo](ReadMe-Files/Gesture%20controlled%20wheelchair%20demo.jpg)
-
----
-
 ## 📁 Repository Structure
 
+```text
 Gesture-controlled-wheelchair/
 ├── Wrist_Unit/
+│   └── Wrist_Unit.ino
+│
 ├── Wheelchair_receiver_code/
+│   └── Wheelchair_receiver_code.ino
+│
 ├── ReadMe-Files/
-│ ├── FinalReport.pdf
-│ ├── Gesture controlled wheelchair demo.jpg
-│ ├── Model Schematics.png
-│ ├── Wrist_Unit.png
-│ └── Chair_Receiver.png
+│   ├── FinalReport.pdf
+│   ├── Gesture controlled wheelchair demo.jpg
+│   ├── Model Schematics.png
+│   ├── Wrist_Unit.png
+│   └── Chair_Receiver.png
+│
 └── README.md
+
+```
+
 
 
 ---
